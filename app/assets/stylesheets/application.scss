@@ -7,6 +7,9 @@
 @import "bootstrap/scss/bootstrap";
 @import "font-awesome";
 
-// Your CSS partials
+// Components
 @import "components/index";
+
+// Pages
 @import "pages/index";
+@import "tom-select/dist/css/tom-select.min.css";
